@@ -1,0 +1,13 @@
+# Install PyTorch FIRST from https://pytorch.org/get-started/locally/ (pick your CUDA version),
+# then:  pip install -r requirements.txt
+streamlit>=1.38
+torch
+torchvision
+transformers
+scikit-learn
+pillow
+numpy
+pandas
+matplotlib
+tqdm
+kagglehub
